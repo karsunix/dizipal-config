@@ -1,5 +1,5 @@
 {
-  "app_version": "1.0.0",
+  "app_version": "1.1.0",
   "min_version": "1.0.0",
   "force_update": false,
   "update_url": "https://github.com/karsunix/dizipal/releases/tag/v1.0.0",
@@ -12,5 +12,5 @@
   "site_numbers": [1066, 1067, 1068, 1069],
   "maintenance_mode": false,
   "maintenance_message": "Uygulama bakımda, lütfen daha sonra tekrar deneyin.",
-  "announcement": null
+  "announcement": "🎉 Test: Yeni versiyon mevcut!"
 }
