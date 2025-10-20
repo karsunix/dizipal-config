@@ -1,0 +1,16 @@
+{
+  "app_version": "1.0.0",
+  "min_version": "1.0.0",
+  "force_update": false,
+  "update_url": "https://github.com/YOUR_USERNAME/dizipal/releases/latest",
+  "features": {
+    "categories_enabled": true,
+    "search_enabled": true,
+    "auto_load_enabled": false,
+    "video_quality_selector": true
+  },
+  "site_numbers": [1066, 1067, 1068, 1069],
+  "maintenance_mode": false,
+  "maintenance_message": "Uygulama bakımda, lütfen daha sonra tekrar deneyin.",
+  "announcement": null
+}
