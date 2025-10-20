@@ -2,7 +2,7 @@
   "app_version": "1.0.0",
   "min_version": "1.0.0",
   "force_update": false,
-  "update_url": "https://github.com/karsunix/dizipal/releases/latest",
+  "update_url": "https://github.com/karsunix/dizipal-config/releases/tag/v1.0.0",
   "features": {
     "categories_enabled": true,
     "search_enabled": true,
